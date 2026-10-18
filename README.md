@@ -1,30 +1,132 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_yash_chaudhary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-chaudhary-791835239) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yashc_27) 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · yashyc27</sub></p>
+<h1>YASH CHAUDHARY</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Pursuing M.Tech in Computer Engineering at Dwarkadas J Sanghvi College of Engineering with a strong foundation built through a B.E. (CGPA 8.3) and 4 internships spanning ML, GenAI, and full-stack development. Having shipped 8 production-deployed AI systems — from RAG pipelines on Amazon Bedrock to real-time MLOps workflows — I am looking to deepen my research skills in AI/ML, contribute to meaningful projects, and grow within teams building serious, real-world technology.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashyc&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashyc&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashyc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><a href="https://github.com/yashyc27">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yash-chaudhary-791835239">Website</a> &nbsp;·&nbsp; <a href="https://x.com/Yashc_27">X</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/yash-chaudhary-791835239">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:ychaudhary161@gmail.com">Email</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/109565975?u=3440437f1e47a5bbe858a79254ac668577c9045e&amp;v=4" width="180" alt="YASH CHAUDHARY GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yashyc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2>What teams can evaluate quickly</h2>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Yashc_27)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Enterprise Knowledge Base Q&amp;A System · Financial Advisor AI Chatbot · Yonex Sentiment MLOps Pipeline</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>33 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>40 contributions · 18 active days</p></td>
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><sub>Pursuing M.Tech in Computer Engineering at Dwarkadas J Sanghvi College of Engineering with a strong foundation built through a B.E. (CGPA 8.3) and 4 internships spanning ML, GenAI, and full-stack development. Having shipped 8 production-deployed AI systems — from RAG pipelines on Amazon Bedrock to real-time MLOps workflows — I am looking to deepen my research skills in AI/ML, contribute to meaningful projects, and grow within teams building serious, real-world technology.</sub></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashyc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2>Proof at a glance</h2>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>33</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>40</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Yashyc&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="YASH CHAUDHARY GitHub proof metrics" />
+</picture>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&repos=yashyc27%2FDSA-submissions%2Cyashyc27%2FFinancial-Document-Management-with-Semantic-Analysis%2Cyashyc27%2FInnomatics-Nov-2025-Intership%2Cyashyc27%2FTree-Detection-and-Health-Analysis-Using-YOLOv7&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&repos=yashyc27%2FDSA-submissions%2Cyashyc27%2FFinancial-Document-Management-with-Semantic-Analysis%2Cyashyc27%2FInnomatics-Nov-2025-Intership%2Cyashyc27%2FTree-Detection-and-Health-Analysis-Using-YOLOv7&v=recruiter-projects-1&mode=dark" width="100%" alt="YASH CHAUDHARY selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Yashyc27/DSA-submissions">DSA-submissions</a></h3>
+<p>My NeetCode.io problem submissions</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Yashyc27/DSA-submissions">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Yashyc27/Financial-Document-Management-with-Semantic-Analysis">Financial-Document-Management-with-Semantic-Analysis</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Yashyc27/Innomatics-Nov-2025-Intership">Innomatics-Nov-2025-Intership</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Yashyc27/Tree-Detection-and-Health-Analysis-Using-YOLOv7">Tree-Detection-and-Health-Analysis-Using-YOLOv7</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="YASH CHAUDHARY technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>72% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=yashyc27&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109565975%3Fu%3D3440437f1e47a5bbe858a79254ac668577c9045e%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="YASH CHAUDHARY contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/yashyc27">GitHub</a><br /><a href="https://www.linkedin.com/in/yash-chaudhary-791835239">Website</a><br /><a href="https://x.com/Yashc_27">X</a><br /><a href="https://linkedin.com/in/yash-chaudhary-791835239">LinkedIn</a><br /><a href="mailto:ychaudhary161@gmail.com">Email</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>YASH CHAUDHARY · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## Experience
+
+<table>
+<tr><td width="34%" valign="top"><b>Innomatics Research Labs — Data Science with GenAI Intern</b><br /><sub>Nov 2025 – Mar 2026</sub></td><td width="66%" valign="top"><ul><li>Built 3 GenAI systems end-to-end: Gemini API chatbot, YouTube-to-article pipeline, and enterprise RAG Q&amp;A on Amazon Bedrock with full agentic AI capabilities.</li><li>Engineered MLOps workflow for live Flipkart sentiment: Prefect daily retraining + MLflow tracking + Optuna tuning — 100% reproducible with version-controlled model governance.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Edunet Foundation (AICTE) — Artificial Intelligence &amp; Machine Learning Intern</b><br /><sub>Jun 2025 – Jul 2025</sub></td><td width="66%" valign="top"><ul><li>Salary prediction app (Flask + Scikit-learn) cutting workload 70%; R² from 0.71 to 0.89 via recursive feature elimination and cross-validation; shipped via CI/CD in a 6-week agile sprint.</li></ul></td></tr><tr><td width="34%" valign="top"><b>Eduskills Foundation (AWS) — AI/ML Virtual Intern</b><br /><sub>Jul 2024 – Sep 2024</sub></td><td width="66%" valign="top"><ul><li>Benchmarked 4 regression models (XGBoost, Ridge, Lasso, Linear) — 18% RMSE reduction over baseline; automated preprocessing cutting prep time 60%; A/B tested for final production selection.</li></ul></td></tr><tr><td width="34%" valign="top"><b>TechnoHacks EduTech — Machine Learning Intern</b><br /><sub>Dec 2023 – Jan 2024</sub></td><td width="66%" valign="top"><ul><li>Wine classifier 88% accuracy (+5% vs. baseline) + diabetes predictor 85% F1; GridSearchCV 50+ combos cut training time 35%; all results validated with hypothesis testing.</li></ul></td></tr>
+</table>
+
+<b>Education</b>
+
+- M.Tech in Computer Engineering — Dwarkadas J Sanghvi College of Engineering, Mumbai (2026 – 2028)
+- B.E. in Computer Engineering — CGPA 8.3 / 10 — St. John College of Engineering &amp; Management, Palghar (2021 – 2025)
+
+<b>Projects</b>
+
+- <b>Enterprise Knowledge Base Q&amp;A System</b> — Production RAG platform on Amazon Bedrock replacing keyword search with semantic vector retrieval over private docs — citation-backed, hallucination-resistant answers grounded in proprietary data. Streamlit frontend depl
+- <b>Tree Detection &amp; Health Monitoring System</b> — YOLOv7 on multispectral satellite imagery — 93% mAP across 3 spectral bands, monitoring 10,000+ trees per run; Flask REST API reduced manual survey time by 80%. Enabled real-time precision monitoring across large geograp
+- <b>ElpCare — Elder Healthcare Platform</b> — Cross-platform healthcare app (React web + Kotlin Android) with Hugging Face NLP chatbot handling appointment booking end-to-end with zero human intervention. 3-tier microservices architecture (Flask API · React SPA · Ko
