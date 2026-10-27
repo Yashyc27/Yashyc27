@@ -1,218 +1,356 @@
 
+<!--
+  YASH CHAUDHARY | GITHUB PROFILE README
+  Theme: Midnight Blue • Electric Cyan • AI Engineering
+-->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yashyc27/Yashyc27/main/Beyond%20Prompts_%20Building%20AI%20Applications.png" width="100%" alt="Yash Chaudhary — Beyond Prompts. Building Intelligent AI Applications"/>
-
-### Building practical AI systems, from experiments to deployment 🚀
-
-<a href="mailto:ychaudhary161@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/yash-chaudhary-791835239">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://github.com/Yashyc27">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/Yashyc27/Yashyc27/main/Beyond%20Prompts_%20Building%20AI%20Applications.png" width="100%" alt="Yash Chaudhary — Beyond Prompts. Building Intelligent AI Applications"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Yashyc27&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+LLMs+%7C+RAG;Building+AI+Applications+that+Solve+Real+Problems;Machine+Learning+%7C+MLOps+%7C+Automation;Turning+Ideas+into+Intelligent+Systems" alt="Animated introduction"/>
+
+<br/>
+
+<a href="mailto:ychaudhary161@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/yash-chaudhary-791835239">
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Yashyc27">
+  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yashyc27&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — About Me
 
-Hi, I'm **Yash Chaudhary**, a Computer Engineering graduate currently pursuing **M.Tech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering, Mumbai**.
+<img align="right" width="155" src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres" alt="Python, PyTorch, FastAPI and PostgreSQL"/>
 
-I enjoy building practical AI applications that solve real-world problems, from intelligent document search and RAG-powered chatbots to automated machine-learning pipelines.
+I'm **Yash Chaudhary**, a Computer Engineering graduate pursuing **M.Tech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering, Mumbai**.
 
-- 🎓 **M.Tech Computer Engineering:** 2026–2028
-- 📚 **B.E. Computer Engineering:** CGPA 8.3/10
-- 🤖 **Interests:** Generative AI, LLMs, RAG, Machine Learning
-- ⚙️ **Engineering:** MLOps, APIs, cloud deployment, automation
-- 🌱 **Currently exploring:** AI research and reliable production AI systems
+I build practical AI applications that bridge the gap between experimentation and deployment — from RAG-powered knowledge assistants to automated ML pipelines.
+
+- 🎓 M.Tech Computer Engineering · 2026–2028
+- 📚 B.E. Computer Engineering · CGPA 8.3/10
+- 🧠 Focus: Generative AI, LLMs, RAG and Machine Learning
+- ⚙️ Building: AI applications, APIs and MLOps workflows
+- 🔬 Exploring: Reliable AI systems and research-driven engineering
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Technical Arsenal
 
 <div align="center">
 
-### Languages & Machine Learning
+### AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,js,tensorflow,pytorch" alt="Python, JavaScript, TensorFlow, PyTorch"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Python, TensorFlow and PyTorch"/>
 
-### GenAI & Backend Development
+<img src="https://img.shields.io/badge/Scikit--learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/XGBoost-0B1220?style=flat-square&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0B1220?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs" alt="FastAPI, Flask, React, Next.js"/>
+### Generative AI & LLM Engineering
 
-### Cloud, Databases & Tools
+<img src="https://img.shields.io/badge/RAG-0B1220?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/LangChain-0B1220?style=for-the-badge&logo=langchain&logoColor=1C8D76"/>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-0B1220?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Gemini_API-0B1220?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8"/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,postgres,docker,git,linux" alt="AWS, GCP, PostgreSQL, Docker, Git, Linux"/>
+### Backend & Application Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs" alt="FastAPI, Flask, React and Next.js"/>
+
+### MLOps, Cloud & Data
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,postgres,git,linux" alt="AWS, GCP, Docker, PostgreSQL, Git and Linux"/>
+
+<img src="https://img.shields.io/badge/MLflow-0B1220?style=flat-square&logo=mlflow&logoColor=0194E2"/>
+<img src="https://img.shields.io/badge/Prefect-0B1220?style=flat-square&logo=prefect&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/DVC-0B1220?style=flat-square&logo=dvc&logoColor=945DD6"/>
+<img src="https://img.shields.io/badge/Optuna-0B1220?style=flat-square&logoColor=22D3EE"/>
 
 </div>
 
 <details>
-<summary><b>📋 View all technical skills</b></summary>
+<summary><b>View complete technical skill set</b></summary>
 
-| Category | Technologies |
+| Domain | Technologies |
 |---|---|
-| Programming | Python, JavaScript, SQL, NoSQL |
+| Programming | Python, JavaScript, SQL |
 | Machine Learning | Scikit-learn, TensorFlow, PyTorch, XGBoost |
-| Generative AI | RAG, LangChain, Amazon Bedrock, Gemini API, Hugging Face |
+| GenAI | RAG, LangChain, Amazon Bedrock, Gemini API, Hugging Face |
 | MLOps | MLflow, Prefect, Optuna, DVC, CI/CD |
 | Frameworks | Flask, FastAPI, React, Next.js, Streamlit, Kotlin |
-| Cloud & Tools | AWS EC2, GCP, Firebase, PostgreSQL, Tableau, Plotly, Linux |
+| Cloud & Data | AWS EC2, GCP, Firebase, PostgreSQL, Tableau, Plotly, Linux |
 
 </details>
 
 ---
 
-## 💼 Professional Experience
+## `03` — Experience
 
 <details open>
-<summary><b>🧠 Data Science with GenAI Intern — Innomatics Research Labs</b> | Nov 2025 – Mar 2026</summary>
+<summary><b>01 · Data Science with GenAI Intern</b> — Innomatics Research Labs</summary>
+<br/>
 
-- Built three GenAI applications, including a Gemini chatbot, YouTube-to-article pipeline, and enterprise RAG Q&A system using Amazon Bedrock.
+<img src="https://img.shields.io/badge/Nov_2025_–_Mar_2026-0B1220?style=flat-square&logo=calendar&logoColor=22D3EE"/>
+
+- Built three GenAI applications: a Gemini chatbot, a YouTube-to-article pipeline, and an enterprise RAG question-answering system using Amazon Bedrock.
 - Developed an automated sentiment-analysis MLOps workflow using Prefect, MLflow, and Optuna.
+
+**Core technologies:** Generative AI · RAG · Amazon Bedrock · MLflow · Prefect
 
 </details>
 
 <details>
-<summary><b>🤖 AI/ML Intern — Edunet Foundation (AICTE)</b> | Jun – Jul 2025</summary>
+<summary><b>02 · AI/ML Intern</b> — Edunet Foundation (AICTE)</summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Jun_–_Jul_2025-0B1220?style=flat-square&logo=calendar&logoColor=22D3EE"/>
 
 - Developed a salary-prediction application using Flask and Scikit-learn.
 - Improved model R² from 0.71 to 0.89 through feature selection and cross-validation.
 
+**Core technologies:** Python · Scikit-learn · Flask
+
 </details>
 
 <details>
-<summary><b>☁️ AI/ML Virtual Intern — Eduskills Foundation (AWS)</b> | Jul – Sep 2024</summary>
+<summary><b>03 · AI/ML Virtual Intern</b> — Eduskills Foundation (AWS)</summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Jul_–_Sep_2024-0B1220?style=flat-square&logo=calendar&logoColor=22D3EE"/>
 
 - Evaluated four regression models and reduced RMSE by 18% compared with the baseline.
 - Automated preprocessing, reducing preparation time by 60%.
 
+**Core technologies:** Machine Learning · AWS · Data Preprocessing
+
 </details>
 
 <details>
-<summary><b>📊 Machine Learning Intern — TechnoHacks EduTech</b> | Dec 2023 – Jan 2024</summary>
+<summary><b>04 · Machine Learning Intern</b> — TechnoHacks EduTech</summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Dec_2023_–_Jan_2024-0B1220?style=flat-square&logo=calendar&logoColor=22D3EE"/>
 
 - Developed a wine-quality classifier with 88% accuracy and a diabetes predictor with an 85% F1 score.
 - Evaluated 50+ hyperparameter combinations and reduced training time by 35%.
+
+**Core technologies:** Python · Machine Learning · Model Evaluation
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## `04` — Selected Projects
+
+<div align="center">
+
+*Engineering intelligent applications, automating workflows, and solving real-world problems.*
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 Enterprise Knowledge Base Q&A
+### ◈ Enterprise Knowledge Base Q&A
 
-**Tech:** Amazon Bedrock · RAG · Streamlit · AWS EC2
+<img src="https://img.shields.io/badge/GENERATIVE_AI-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0B1220?style=flat-square"/>
 
 A document question-answering platform that retrieves information from private documents and generates citation-backed responses.
+
+**Stack**
+
+`Amazon Bedrock` `RAG` `Streamlit` `AWS EC2`
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Financial Advisor AI Chatbot
+### ◈ Financial Advisor AI Chatbot
 
-**Tech:** Gemini API · LangChain · FastAPI · AWS
+<img src="https://img.shields.io/badge/LLM_APPLICATION-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/CONVERSATIONAL_AI-0B1220?style=flat-square"/>
 
 An AI assistant featuring multi-turn memory and retrieval-augmented generation to ground answers in curated sources.
+
+**Stack**
+
+`Gemini API` `LangChain` `FastAPI` `AWS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Sentiment MLOps Pipeline
+### ◈ Sentiment Analysis MLOps Pipeline
 
-**Tech:** MLflow · Prefect · Optuna · DVC
+<img src="https://img.shields.io/badge/MLOPS-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUTOMATION-0B1220?style=flat-square"/>
 
-An automated pipeline processing 8,500+ reviews with scheduled retraining, experiment tracking, model tuning, and version control.
+An automated workflow processing 8,500+ reviews, with scheduled retraining, experiment tracking, model tuning, and version control.
+
+**Stack**
+
+`MLflow` `Prefect` `Optuna` `DVC`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌳 Tree Detection & Monitoring
+### ◈ Tree Detection & Monitoring
 
-**Tech:** YOLOv7 · Satellite Imagery · Flask
+<img src="https://img.shields.io/badge/COMPUTER_VISION-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DETECTION-0B1220?style=flat-square"/>
 
 A computer-vision solution reporting 93% mAP across three spectral bands and monitoring 10,000+ trees per run.
+
+**Stack**
+
+`YOLOv7` `Satellite Imagery` `Flask`
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🤝 ElpCare — Elder Healthcare Platform
+### ◈ ElpCare — Elder Healthcare Platform
 
-**Tech:** React · Kotlin · Flask · Hugging Face
+<img src="https://img.shields.io/badge/FULL_STACK-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-0B1220?style=flat-square"/>
 
-A cross-platform healthcare application with an NLP chatbot for appointment booking and an accessible user experience.
+A cross-platform application featuring an NLP chatbot for appointment booking and an accessible user experience.
+
+**Stack:** `React` · `Kotlin` · `Flask` · `Hugging Face`
 
 </td>
 </tr>
 </table>
 
-> 💡 Add links to the actual project repositories in the headings when the source code is publicly available.
+> **Want to explore the code?** Add links to the corresponding project repositories when they are publicly available.
 
 ---
 
-## 🎓 Education
+## `05` — Education
 
-- **M.Tech in Computer Engineering** — Dwarkadas J. Sanghvi College of Engineering, Mumbai (2026–2028)
-- **B.E. in Computer Engineering** — St. John College of Engineering & Management, Palghar (CGPA 8.3/10, 2021–2025)
+<table>
+<tr>
+<td width="64">
+
+🎓
+
+</td>
+<td>
+
+**M.Tech · Computer Engineering**
+
+Dwarkadas J. Sanghvi College of Engineering, Mumbai
+
+`2026–2028`
+
+</td>
+</tr>
+<tr>
+<td>
+
+📘
+
+</td>
+<td>
+
+**B.E. · Computer Engineering**
+
+St. John College of Engineering & Management, Palghar
+
+`2021–2025` · **CGPA 8.3/10**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Certifications
-
-- Data Science & Analytics — HP LIFE
-- AI Fundamentals — IBM SkillsBuild
-- Prompt Engineering for Everyone — IBM
-- Machine Learning Onramp — MATLAB
-- Data Visualization — Forage
-- Data Science with Python — Simplilearn
-
----
-
-## 📊 GitHub Statistics
+## `06` — Certifications
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashyc27&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashyc27&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Yashyc27&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+| Certification | Issuer |
+|---|---|
+| Data Science & Analytics | HP LIFE |
+| AI Fundamentals | IBM SkillsBuild |
+| Prompt Engineering for Everyone | IBM |
+| Machine Learning Onramp | MATLAB |
+| Data Visualization | Forage |
+| Data Science with Python | Simplilearn |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm interested in collaborating on projects involving **GenAI, RAG, machine learning, and MLOps**. I'm always keen to learn, exchange ideas, and build useful technology with other developers and researchers.
+## `07` — GitHub Analytics
 
 <div align="center">
 
-<a href="mailto:ychaudhary161@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/yash-chaudhary-791835239">💼 LinkedIn</a> •
-<a href="https://github.com/Yashyc27">💻 GitHub</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashyc27&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashyc27&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0" alt="Most used languages"/>
 
 <br/><br/>
 
-**Thanks for visiting my profile! ⭐**
+<img width="75%" src="https://streak-stats.demolab.com?user=Yashyc27&hide_border=true&background=0B1220&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashyc27&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `08` — Let's Build Something Intelligent
+
+<div align="center">
+
+### Have an interesting AI idea? Let's collaborate.
+
+I'm interested in building practical projects around **Generative AI, RAG, machine learning, and MLOps**.
+
+Open to exchanging ideas, collaborating on research, and developing useful AI applications.
+
+<br/>
+
+<a href="mailto:ychaudhary161@gmail.com">
+  <img src="https://img.shields.io/badge/✉_EMAIL_ME-0891B2?style=for-the-badge&logoColor=white" alt="Email me"/>
+</a>
+<a href="https://www.linkedin.com/in/yash-chaudhary-791835239">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Yashyc27">GitHub</a> ·
+<a href="https://www.linkedin.com/in/yash-chaudhary-791835239">LinkedIn</a> ·
+<a href="mailto:ychaudhary161@gmail.com">Email</a>
+
+<br/><br/>
+
+**BUILD. LEARN. INNOVATE. CREATE IMPACT.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:075985,100:0891B2&height=120&section=footer" width="100%" alt="Cyan and navy footer"/>
 
 </div>
