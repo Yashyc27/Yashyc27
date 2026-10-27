@@ -1,21 +1,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Yash%20Chaudhary&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20GenAI%20%7C%20RAG%20%7C%20MLOps&descAlignY=55&descSize=20" width="100%" alt="Yash Chaudhary"/>
+<img src="https://raw.githubusercontent.com/Yashyc27/Yashyc27/main/Beyond%20Prompts_%20Building%20AI%20Applications.png" width="100%" alt="Yash Chaudhary — Beyond Prompts. Building Intelligent AI Applications"/>
 
 ### Building practical AI systems, from experiments to deployment 🚀
 
 <a href="mailto:ychaudhary161@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/yash-chaudhary-791835239">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Yashyc27">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Yashyc27&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yashyc27&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -76,6 +78,7 @@ I enjoy building practical AI applications that solve real-world problems, from 
 
 - Built three GenAI applications, including a Gemini chatbot, YouTube-to-article pipeline, and enterprise RAG Q&A system using Amazon Bedrock.
 - Developed an automated sentiment-analysis MLOps workflow using Prefect, MLflow, and Optuna.
+
 </details>
 
 <details>
@@ -83,6 +86,7 @@ I enjoy building practical AI applications that solve real-world problems, from 
 
 - Developed a salary-prediction application using Flask and Scikit-learn.
 - Improved model R² from 0.71 to 0.89 through feature selection and cross-validation.
+
 </details>
 
 <details>
@@ -90,6 +94,7 @@ I enjoy building practical AI applications that solve real-world problems, from 
 
 - Evaluated four regression models and reduced RMSE by 18% compared with the baseline.
 - Automated preprocessing, reducing preparation time by 60%.
+
 </details>
 
 <details>
@@ -97,6 +102,7 @@ I enjoy building practical AI applications that solve real-world problems, from 
 
 - Developed a wine-quality classifier with 88% accuracy and a diabetes predictor with an 85% F1 score.
 - Evaluated 50+ hyperparameter combinations and reduced training time by 35%.
+
 </details>
 
 ---
